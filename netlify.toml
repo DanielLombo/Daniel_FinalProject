@@ -1,0 +1,4 @@
+[[redirects]]
+rom = "/*"
+to = "/index.html"
+status = 200
